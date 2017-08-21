@@ -3,7 +3,7 @@
     Created on : Aug 7, 2017, 11:35:16 AM
     Author     : student36
 --%>
-
+lious
 <jsp:useBean class="db.dbConnection" id="obj"></jsp:useBean>
 <%@page import="java.sql.ResultSet"%>
 <%
